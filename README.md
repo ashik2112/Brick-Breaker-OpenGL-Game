@@ -55,7 +55,7 @@ g++ main.cpp -o brickbreaker -lGL -lGLU -lglut
 
 Md. Asaduzzaman Ashik  
 CSE Final Year Project – Brick Breaker using OpenGL  
-GitHub Repo: [Brick-Breaker-OpenGL-Game](https://github.com/YOUR_USERNAME/Brick-Breaker-OpenGL-Game)
+GitHub Repo: [Brick-Breaker-OpenGL-Game](https://github.com/ashik2112/Brick-Breaker-OpenGL-Game)
 
 ---
 
