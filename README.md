@@ -1,4 +1,4 @@
-![cd5e56fb-9f93-4ff2-aceb-3baba1013975](https://github.com/user-attachments/assets/63366d34-922d-4457-8b86-b0c99791a65a)# Brick Breaker OpenGL Game
+# Brick Breaker OpenGL Game
 
 A fun and advanced **Brick Breaker** game built using **C++ and OpenGL (GLUT)**. It features:
 
@@ -12,8 +12,7 @@ A fun and advanced **Brick Breaker** game built using **C++ and OpenGL (GLUT)**.
 ---
 
 ## Demo GIF
-![Uploading cd5e56fb-9f93-4ff2-aceb-3baba1013975.gif…]()
-
+![cd5e56fb-9f93-4ff2-aceb-3baba1013975](https://github.com/user-attachments/assets/63366d34-922d-4457-8b86-b0c99791a65a)
 ---
 
 ## How to Run
